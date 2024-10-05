@@ -1,5 +1,5 @@
 # About Me
-I am a **passionate web developer** with expertise in both **front-end** and **back-end** technologies. My goal is to build efficient, scalable, and visually appealing web applications that provide a seamless user experience.
+I am a passionate web developer with expertise in both front-end and back-end technologies. My goal is to build efficient, scalable, and visually appealing web applications that provide a seamless user experience.
 ## Skills
 ### Front-End
 - **HTML5**: Crafting well-structured and semantic web pages.
