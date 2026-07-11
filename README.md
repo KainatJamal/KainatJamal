@@ -32,36 +32,32 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 
 ---
 
-# 💼 Experience
+# 📌 Career Timeline
 
-### Operations & Sales Support Associate — CopyPencil.pk (Feb 2025 – May 2025)
-- Managed 100+ leads monthly with Google Sheets.  
-- Improved follow-up efficiency by 25%.  
-- Reduced cancellations by 30% via workflow optimization.  
+<div align="center">
 
-### Freelance AI & Full Stack Developer (2023 – Present)
-- Built responsive full-stack apps.  
-- Developed AI-powered chatbot systems.  
-- Integrated Google Gemini APIs.  
-- Automated workflows with Python.  
+<img src="https://img.shields.io/badge/2023-Freelance_AI_Engineer-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2024-Internship_Prodigy_InfoTech-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/2024-Internship_CodeAlpha-00FFFF?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/2025-Operations_CopyPencil.pk-111827?style=for-the-badge&logo=google-sheets"/>
+<img src="https://img.shields.io/badge/2026-Full_Stack_Developer-00FFFF?style=for-the-badge&logo=python"/>
 
-### Internships
-- Full Stack Web Developer — Prodigy InfoTech  
-- Full Stack Web Developer — CodeAlpha  
-- Web Developer — Gutech International LLC  
+</div>
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications Gallery
 
-- Cybersecurity for Everyone — University of Maryland  
-- Microsoft Azure Cloud Services — Microsoft  
-- Version Control — Meta  
-- Programming with JavaScript — Meta  
-- Oracle Cloud Infrastructure Foundations — Oracle  
-- Data Storage in Microsoft Azure — Microsoft  
-- Introduction to Big Data — UC San Diego  
-- Game Development with Scratch — Coursera  
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-University_of_Maryland-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_Cloud-Microsoft-111827?style=for-the-badge&logo=azure"/>
+<img src="https://img.shields.io/badge/Version_Control-Meta-00FFFF?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/JavaScript-Meta-111827?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-00FFFF?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Big_Data-UC_San_Diego-111827?style=for-the-badge&logo=databricks"/>
+
+</div>
 
 ---
 
@@ -113,7 +109,7 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
@@ -123,7 +119,24 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 <img src="https://streak-stats.demolab.com?user=KainatJamal&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KainatJamal&theme=tokyo-night&hide_border=true"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=KainatJamal&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KainatJamal&theme=tokyonight"/>
+
+<img src="https://komarev.com/ghpvc/?username=KainatJamal&style=for-the-badge&color=00FFFF"/>
+
 </div>
+
+---
+
+# 📚 Learning Journey
+
+███████████████████████░░░  AI Engineering  
+█████████████████████░░░░░  Full Stack Development  
+████████████████████░░░░░░  Backend Engineering  
+███████████████████░░░░░░░  Python Automation  
+████████████████░░░░░░░░░░  Cloud Computing  
+█████████████░░░░░░░░░░░░░  DevOps  
 
 ---
 
@@ -135,6 +148,12 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 ✔ Strengthen backend architecture skills  
 ✔ Build scalable cloud-native systems  
 ✔ Collaborate with developers worldwide  
+
+---
+
+# 💡 Engineering Philosophy
+
+*"Technology should solve meaningful problems, scale gracefully, and create exceptional user experiences."*
 
 ---
 
