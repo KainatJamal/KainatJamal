@@ -1,10 +1,10 @@
 <!-- ===================================================== -->
-<!--            KAINAT JAMAL - PROFESSIONAL README         -->
+<!--            KAINAT JAMAL - FULL PORTFOLIO README       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Kainat+Jamal;AI+Engineer;Full+Stack+Developer;Python+Automation+Developer;Building+Intelligent+Solutions;Elegant+Dark+Neon+Portfolio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Kainat+Jamal;AI+Engineer;Full+Stack+Developer;Python+Automation+Developer;Elegant+Dark+Neon+Portfolio" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:111827,70:00FFFF,100:000000&text=Kainat%20Jamal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Automation%20Specialist&descAlignY=58&animation=fadeIn"/>
 
@@ -12,39 +12,47 @@
 
 ---
 
-## 👋 Welcome
+# 👋 Introduction
 
-I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artificial Intelligence, Full Stack Web Development, Backend Engineering, and Automation**. My portfolio reflects a **luxury dark-neon aesthetic** with smooth animations, professional layouts, and high-level content.
+Welcome to my **dark neon GitHub portfolio**.  
+I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artificial Intelligence, Full Stack Development, Backend APIs, and Automation**.  
 
----
-
-## 🚀 Professional Summary
-
-- **AI Engineer** — Building intelligent assistants, chatbots, and workflow automation.  
-- **Full Stack Developer** — Crafting responsive, scalable applications with React, Node.js, and Firebase.  
-- **Backend Engineer** — Designing secure APIs, authentication systems, and database architectures.  
-- **Python Automation Developer** — Automating workflows, data pipelines, and API integrations.  
-
-💡 My mission: *Deliver elegant, scalable, and impactful software solutions that solve real-world problems.*
+This profile is designed as a **luxury developer showcase** — smooth animations, neon highlights, and professional content.  
 
 ---
 
-## 💼 Experience & Internships
+# 🚀 Professional Summary
 
-- **Freelance AI & Full Stack Developer (2023 – Present)**  
-  Built AI-powered chatbots, REST APIs, and real-time applications with Firebase and Gemini API.  
+- **AI Engineer** — Chatbots, LLM integration, workflow automation.  
+- **Full Stack Developer** — React, Node.js, Firebase, PostgreSQL.  
+- **Backend Engineer** — REST APIs, authentication, scalable architectures.  
+- **Python Automation Developer** — Workflow optimization, API automation.  
 
-- **Operations & Sales Support Associate – CopyPencil.pk (Feb 2025 – May 2025)**  
-  Streamlined workflows, improved lead tracking, and boosted customer follow-up efficiency.  
-
-- **Internships (2024 – 2025)**  
-  - Full Stack Web Developer — Prodigy InfoTech  
-  - Full Stack Web Developer — CodeAlpha  
-  - Web Developer — Gutech International LLC  
+💡 *Mission: Build intelligent, scalable, and impactful software solutions.*
 
 ---
 
-## 🏆 Certifications
+# 💼 Experience
+
+### Operations & Sales Support Associate — CopyPencil.pk (Feb 2025 – May 2025)
+- Managed 100+ leads monthly with Google Sheets.  
+- Improved follow-up efficiency by 25%.  
+- Reduced cancellations by 30% via workflow optimization.  
+
+### Freelance AI & Full Stack Developer (2023 – Present)
+- Built responsive full-stack apps.  
+- Developed AI-powered chatbot systems.  
+- Integrated Google Gemini APIs.  
+- Automated workflows with Python.  
+
+### Internships
+- Full Stack Web Developer — Prodigy InfoTech  
+- Full Stack Web Developer — CodeAlpha  
+- Web Developer — Gutech International LLC  
+
+---
+
+# 🏆 Certifications
 
 - Cybersecurity for Everyone — University of Maryland  
 - Microsoft Azure Cloud Services — Microsoft  
@@ -57,27 +65,27 @@ I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artific
 
 ---
 
-## 🎯 Featured Projects
+# 🎯 Featured Projects
 
-### 🤖 RescueAI — Emergency Response Platform
+## 🤖 RescueAI — Emergency Response Platform
 - **Tech Stack:** Flutter, Firebase, Python, REST API, Google Maps  
-- Real-time incident reporting, live location monitoring, and secure data handling.  
+- Real-time incident reporting, live location monitoring, secure data handling.  
 
-### 💬 AI Powered Chatbot
+## 💬 AI Powered Chatbot
 - **Tech Stack:** React, Node.js, Express, Firebase, Gemini API  
 - Intelligent conversational assistant with prompt engineering and real-time communication.  
 
-### 💻 Online Code Editor
+## 💻 Online Code Editor
 - **Tech Stack:** React, Node.js, Docker, Python  
 - Browser-based IDE with syntax highlighting, multi-language support, and live execution.  
 
-### ☁ Serverless Data Processing Pipeline
+## ☁ Serverless Data Processing Pipeline
 - **Tech Stack:** React, Firebase, Node.js, Cloud  
 - Dashboard for managing workflows, visualizing analytics, and monitoring pipelines.  
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -105,7 +113,7 @@ I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artific
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +127,7 @@ I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artific
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 ✔ Contribute consistently to open source  
 ✔ Publish production-ready AI applications  
@@ -130,7 +138,7 @@ I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artific
 
 ---
 
-## 🤝 Let’s Connect
+# 🤝 Let’s Connect
 
 <div align="center">
 
