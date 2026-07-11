@@ -66,18 +66,28 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 ## 🤖 RescueAI — Emergency Response Platform
 - **Tech Stack:** Flutter, Firebase, Python, REST API, Google Maps  
 - Real-time incident reporting, live location monitoring, secure data handling.  
+- Features: 🚨 Emergency reporting, 📍 Live location monitoring, 🔔 Push notifications, 👥 User authentication.  
+
+---
 
 ## 💬 AI Powered Chatbot
 - **Tech Stack:** React, Node.js, Express, Firebase, Gemini API  
 - Intelligent conversational assistant with prompt engineering and real-time communication.  
+- Features: AI conversations, Prompt Engineering, Gemini API Integration, Authentication, Responsive UI.  
+
+---
 
 ## 💻 Online Code Editor
 - **Tech Stack:** React, Node.js, Docker, Python  
 - Browser-based IDE with syntax highlighting, multi-language support, and live execution.  
+- Features: Code execution, Multiple language support, Syntax highlighting, Real-time output.  
+
+---
 
 ## ☁ Serverless Data Processing Pipeline
 - **Tech Stack:** React, Firebase, Node.js, Cloud  
 - Dashboard for managing workflows, visualizing analytics, and monitoring pipelines.  
+- Features: Dashboard, Analytics, Data upload, Cloud workflow, Interactive charts.  
 
 ---
 
@@ -163,14 +173,4 @@ This profile is designed as a **luxury developer showcase** — smooth animation
 
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kainat-jamal-190b73219/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/></a>
-<a href="https://www.upwork.com/freelancers/~019966f4eca948ca3e"><img src="https://img.shields.io/badge/Upwork-00FFFF?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *Thanks for visiting my profile! If you enjoy my work, feel free to star my repositories and connect with me.* ⭐
-
-</div>
+<a href="https://www.upwork.com/freelancers/~019966f4eca948ca3e"><img src="https://img.shields.io/badge/Upwork-00FFFF?style
