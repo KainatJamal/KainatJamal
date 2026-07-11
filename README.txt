@@ -1,1 +1,0 @@
-Place custom SVG banners and illustrations here.
