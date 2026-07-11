@@ -1,176 +1,117 @@
-<!-- ===================================================== -->
-<!--            KAINAT JAMAL - FULL PORTFOLIO README       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Kainat+Jamal;AI+Engineer;Full+Stack+Developer;Python+Automation+Developer;Elegant+Dark+Neon+Portfolio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:0D1117&height=250&section=header&text=KAINAT%20JAMAL&fontSize=56&fontColor=F5F3FF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Systems%20%26%20Protocol%20Engineering&descAlignY=54&descSize=17&descColor=22D3EE&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:111827,70:00FFFF,100:000000&text=Kainat%20Jamal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Automation%20Specialist&descAlignY=58&animation=fadeIn"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Developer+%7C+MERN+%2B+Firebase+%2B+PostgreSQL;Fresh+Computer+Engineering+Graduate+%E2%80%94+SSUET+2026;Reverse-Engineered+a+Proprietary+Wireless+Protocol+From+Scratch;Karachi%2C+Pakistan+%7C+Open+to+Full-Time+%26+Remote+Roles" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SSUET%20%C2%B7%20Class%20of%202026-D4AF37?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=3&width=1200"/>
+
+<br/>
+
+<a href="./ABOUT.md"><img src="https://img.shields.io/badge/01-ABOUT-0D1117?style=for-the-badge&color=8B5CF6"/></a>
+<a href="./EXPERIENCE.md"><img src="https://img.shields.io/badge/02-EXPERIENCE-0D1117?style=for-the-badge&color=22D3EE"/></a>
+<a href="./PROJECTS.md"><img src="https://img.shields.io/badge/03-PROJECTS-0D1117?style=for-the-badge&color=8B5CF6"/></a>
+<a href="./SKILLS.md"><img src="https://img.shields.io/badge/04-SKILLS-0D1117?style=for-the-badge&color=22D3EE"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/05-CONTACT-0D1117?style=for-the-badge&color=D4AF37"/></a>
 
 </div>
 
----
+<br/>
 
-# 👋 Introduction
+> *"I don't just consume APIs — I reverse-engineer the ones nobody documented."*
 
-Welcome to my **dark neon GitHub portfolio**.  
-I am **Kainat Jamal**, a Computer Engineering graduate specializing in **Artificial Intelligence, Full Stack Development, Backend APIs, and Automation**.  
+### Hi, I'm Kainat 👋
 
-This profile is designed as a **luxury developer showcase** — smooth animations, neon highlights, and professional content.  
+I'm a Computer Engineering graduate from **Sir Syed University of Engineering & Technology (SSUET)**, Karachi, with a full-stack background across **React, Node.js, Firebase, and PostgreSQL** — and a growing specialization in low-level systems work. My flagship project, **PakRescue AI**, involved clean-room reverse engineering a proprietary Android app's networking stack — using JADX and Wireshark — to rebuild a rescue robot's live video and control protocol from zero documentation. I gravitate toward problems where the spec doesn't exist yet and someone has to write it.
 
----
+<table>
+<tr><td width="130"><b>🎓 Education</b></td><td>BS Computer Engineering, SSUET (2022 – 2026)</td></tr>
+<tr><td><b>🧭 Focus</b></td><td>Full-Stack Web Development · Backend APIs · Applied Protocol Engineering</td></tr>
+<tr><td><b>🛠️ Building now</b></td><td><a href="./PROJECTS.md">PakRescue AI</a> — Android control app for a WiFi rescue robot</td></tr>
+<tr><td><b>📚 Learning now</b></td><td>Docker, cloud deployment, system design</td></tr>
+<tr><td><b>💼 Open to</b></td><td>Full-time · Remote · Hybrid · Freelance</td></tr>
+</table>
 
-# 🚀 Professional Summary
-
-- **AI Engineer** — Chatbots, LLM integration, workflow automation.  
-- **Full Stack Developer** — React, Node.js, Firebase, PostgreSQL.  
-- **Backend Engineer** — REST APIs, authentication, scalable architectures.  
-- **Python Automation Developer** — Workflow optimization, API automation.  
-
-💡 *Mission: Build intelligent, scalable, and impactful software solutions.*
-
----
-
-# 📌 Career Timeline
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2023-Freelance_AI_Engineer-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/2024-Internship_Prodigy_InfoTech-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/2024-Internship_CodeAlpha-00FFFF?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/2025-Operations_CopyPencil.pk-111827?style=for-the-badge&logo=google-sheets"/>
-<img src="https://img.shields.io/badge/2026-Full_Stack_Developer-00FFFF?style=for-the-badge&logo=python"/>
+### ⚙️ Core Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,firebase,js,html,css,flutter,kotlin,python,git,github&theme=dark"/>
+
+*Full breakdown, including protocol/reverse-engineering tools, on the [Skills page →](./SKILLS.md)*
 
 </div>
 
----
+<br/>
 
-# 🏆 Certifications Gallery
+## 🚀 Featured Build
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**PakRescue AI** — an Android app (Flutter + Kotlin) that pilots and monitors a WiFi-connected rescue robot in real time. The car's companion app shipped with no public API documentation, so I decompiled it with JADX, captured traffic in Wireshark, and rebuilt the control and video protocols from scratch: a custom TCP command channel and a hand-rolled RTP/JPEG (RFC 2435) reassembler for the live video feed.
+
+This is the project I'm proudest of — not because it uses trendy frameworks, but because nothing about it came with a manual.
+
+<a href="./PROJECTS.md#pakrescue-ai"><img src="https://img.shields.io/badge/Read%20the%20full%20case%20study-8B5CF6?style=for-the-badge"/></a>
+
+</td>
+<td width="35%" valign="top">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JADX-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TCP%2FUDP%20Sockets-22D3EE?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/RTP%20%2F%20RFC%202435-8B5CF6?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-University_of_Maryland-00FFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_Cloud-Microsoft-111827?style=for-the-badge&logo=azure"/>
-<img src="https://img.shields.io/badge/Version_Control-Meta-00FFFF?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/JavaScript-Meta-111827?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-00FFFF?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/Big_Data-UC_San_Diego-111827?style=for-the-badge&logo=databricks"/>
+## 📊 GitHub Analytics
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KainatJamal&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=E6E6E6&ring_color=8B5CF6"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainatJamal&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6E6E6"/>
+
+<img src="https://streak-stats.demolab.com?user=KainatJamal&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E6E6E6&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=6B7280"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KainatJamal&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 
 </div>
 
----
-
-# 🎯 Featured Projects
-
-## 🤖 RescueAI — Emergency Response Platform
-- **Tech Stack:** Flutter, Firebase, Python, REST API, Google Maps  
-- Real-time incident reporting, live location monitoring, secure data handling.  
-- Features: 🚨 Emergency reporting, 📍 Live location monitoring, 🔔 Push notifications, 👥 User authentication.  
-
----
-
-## 💬 AI Powered Chatbot
-- **Tech Stack:** React, Node.js, Express, Firebase, Gemini API  
-- Intelligent conversational assistant with prompt engineering and real-time communication.  
-- Features: AI conversations, Prompt Engineering, Gemini API Integration, Authentication, Responsive UI.  
-
----
-
-## 💻 Online Code Editor
-- **Tech Stack:** React, Node.js, Docker, Python  
-- Browser-based IDE with syntax highlighting, multi-language support, and live execution.  
-- Features: Code execution, Multiple language support, Syntax highlighting, Real-time output.  
-
----
-
-## ☁ Serverless Data Processing Pipeline
-- **Tech Stack:** React, Firebase, Node.js, Cloud  
-- Dashboard for managing workflows, visualizing analytics, and monitoring pipelines.  
-- Features: Dashboard, Analytics, Data upload, Cloud workflow, Interactive charts.  
-
----
-
-# ⚡ Tech Stack
+<br/>
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,php" />
+## 🤝 Let's Connect
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+<a href="https://www.linkedin.com/in/kainat-jamal-190b73219/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kainat.jamal2@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
+<a href="https://github.com/KainatJamal"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~019966f4eca948ca3e"><img src="https://img.shields.io/badge/Upwork-22D3EE?style=for-the-badge&logo=upwork&logoColor=0D1117"/></a>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase" />
+<br/><br/>
 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+<img src="https://komarev.com/ghpvc/?username=KainatJamal&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-**Cloud & Deployment**  
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker,github" />
+<br/><br/>
 
-**AI & ML**  
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00FFFF?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:0D1117&height=120&section=footer"/>
 
 </div>
-
----
-
-# 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KainatJamal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KainatJamal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=KainatJamal&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KainatJamal&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KainatJamal&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KainatJamal&theme=tokyonight"/>
-
-<img src="https://komarev.com/ghpvc/?username=KainatJamal&style=for-the-badge&color=00FFFF"/>
-
-</div>
-
----
-
-# 📚 Learning Journey
-
-███████████████████████░░░  AI Engineering  
-█████████████████████░░░░░  Full Stack Development  
-████████████████████░░░░░░  Backend Engineering  
-███████████████████░░░░░░░  Python Automation  
-████████████████░░░░░░░░░░  Cloud Computing  
-█████████████░░░░░░░░░░░░░  DevOps  
-
----
-
-# 🎯 2026 Goals
-
-✔ Contribute consistently to open source  
-✔ Publish production-ready AI applications  
-✔ Master Docker & Kubernetes  
-✔ Strengthen backend architecture skills  
-✔ Build scalable cloud-native systems  
-✔ Collaborate with developers worldwide  
-
----
-
-# 💡 Engineering Philosophy
-
-*"Technology should solve meaningful problems, scale gracefully, and create exceptional user experiences."*
-
----
-
-# 🤝 Let’s Connect
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kainat-jamal-190b73219/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/></a>
-<a href="https://www.upwork.com/freelancers/~019966f4eca948ca3e"><img src="https://img.shields.io/badge/Upwork-00FFFF?style
