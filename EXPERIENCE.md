@@ -2,13 +2,13 @@
 
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md"><b>Experience</b></a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 # Experience
 
 Five internships, four companies, one running theme: get put on real work fast, and figure it out.
 
-<img src="assets/experience-timeline.svg" width="100%"/>
+<img src="experience-timeline.svg" width="100%"/>
 
 </div>
 
@@ -19,7 +19,7 @@ Five internships, four companies, one running theme: get put on real work fast, 
 
 Supported outreach and lead-generation workflows for SEO campaign operations, working on process automation to reduce manual, repetitive tasks.
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Operations & Sales Support Associate
 **CopyPencil.pk** &nbsp;&#183;&nbsp; `Feb 2025 – May 2025`
@@ -29,7 +29,7 @@ Supported outreach and lead-generation workflows for SEO campaign operations, wo
 - Coordinated with warehouse, logistics, and customer support teams to streamline order processing, reducing cancellations by ~30%
 - Generated operational reports that supported business decisions and performance monitoring
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Web Developer
 **Gutech International LLC** · Internship · Remote &nbsp;&#183;&nbsp; `Nov 2024 – Feb 2025`
@@ -38,7 +38,7 @@ Contributed to improving live production websites — UI/UX enhancements and fro
 
 `✓ Certificate of completion`
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Full Stack Web Developer
 **Prodigy InfoTech** · Internship · Remote &nbsp;&#183;&nbsp; `Nov 2024 – Dec 2024`
@@ -51,7 +51,7 @@ Shipped three full-stack projects during this internship:
 
 `✓ Certificate of completion` · Credential ID `PIT/NOV24/21066`
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Full Stack Web Developer
 **CodeAlpha** · Internship · Remote &nbsp;&#183;&nbsp; `Oct 2024 – Nov 2024`
@@ -62,7 +62,7 @@ Final deliverable: a real-time collaborative document editor (React + Express + 
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md"><b>Experience</b></a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
