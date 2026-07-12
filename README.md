@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-hero.svg" width="100%"/>
+<img src="banner-hero.svg" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=40&lines=Full-Stack+Developer+%7C+MERN+%2B+Firebase+%2B+PostgreSQL;Fresh+Computer+Engineering+Graduate+%E2%80%94+SSUET+%2726;Reverse-Engineered+a+Wireless+Protocol+From+Scratch;Open+to+Full-Time+%26+Remote+Roles" alt="Typing SVG"/>
@@ -12,7 +12,7 @@
 
 <sub><a href="./README.md"><b>Home</b></a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 </div>
 
@@ -42,7 +42,7 @@ I'm a Computer Engineering graduate from **Sir Syed University of Engineering & 
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Core stack
 
@@ -59,7 +59,7 @@ I'm a Computer Engineering graduate from **Sir Syed University of Engineering & 
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Featured build
 
@@ -69,7 +69,7 @@ I'm a Computer Engineering graduate from **Sir Syed University of Engineering & 
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I'm a Computer Engineering graduate from **Sir Syed University of Engineering & 
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -97,6 +97,6 @@ I'm a Computer Engineering graduate from **Sir Syed University of Engineering & 
 
 <img src="https://komarev.com/ghpvc/?username=KainatJamal&style=flat-square&color=0D0A1A&label=views"/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 </div>
