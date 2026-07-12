@@ -2,7 +2,7 @@
 
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md"><b>Projects</b></a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 # Projects
 
@@ -24,7 +24,7 @@
 - Rebuilt the **live video pipeline** by hand: an RTP-over-UDP transport carrying RFC 2435 JPEG-over-RTP frames, reassembled fragment-by-fragment using RTP timestamps and marker bits
 - Fixed an Android-specific bug where the OS silently drops an "unvalidated" WiFi connection (no internet access) from the routing table after ~47 seconds, by binding sockets directly to the WiFi network interface
 
-<img src="assets/protocol-diagram.svg" width="100%"/>
+<img src="protocol-diagram.svg" width="100%"/>
 
 **Stack.** Flutter (UI) + native Kotlin (networking, media, platform channels)
 **Status.** Final Year Project, in active development
@@ -32,7 +32,7 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## Other builds
 
@@ -72,7 +72,7 @@ A hostel booking platform with student registration, room reservations, and paym
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md"><b>Projects</b></a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
