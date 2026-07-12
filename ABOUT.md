@@ -2,7 +2,7 @@
 
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md"><b>About</b></a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 # About me
 
@@ -18,7 +18,7 @@ I graduate from SSUET in 2026, and I'm looking for a team where I can keep worki
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Education
 
@@ -29,7 +29,7 @@ I graduate from SSUET in 2026, and I'm looking for a team where I can keep worki
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Certifications
 
@@ -58,7 +58,7 @@ I graduate from SSUET in 2026, and I'm looking for a team where I can keep worki
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Beyond the terminal
 
@@ -68,7 +68,7 @@ Alongside development work, I also take on freelance **technical writing and res
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md"><b>About</b></a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md">Skills</a></sub>
