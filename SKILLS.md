@@ -2,7 +2,7 @@
 
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md"><b>Skills</b></a></sub>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 # Skills & tech stack
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Applied systems & protocol engineering
 
@@ -41,14 +41,14 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Currently learning
 `Docker` `Cloud deployment` `System design`
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ### Beyond the stack
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 <sub><a href="./README.md">Home</a> &nbsp;&#183;&nbsp; <a href="./ABOUT.md">About</a> &nbsp;&#183;&nbsp; <a href="./EXPERIENCE.md">Experience</a> &nbsp;&#183;&nbsp; <a href="./PROJECTS.md">Projects</a> &nbsp;&#183;&nbsp; <a href="./SKILLS.md"><b>Skills</b></a></sub>
